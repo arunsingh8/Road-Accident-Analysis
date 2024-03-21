@@ -36,3 +36,6 @@ I hope you're doing well. I'm thrilled to share my first Excel project on Road A
 
 # Linkedin
 https://www.linkedin.com/posts/arunsingh02_excelproject-dataanalysis-dashboardcreation-activity-7071086263428087809-S7OT?utm_source=share&utm_medium=member_desktop
+
+# Dashboard PNG:
+![Dashboard_Screenshot](https://github.com/arunsingh8/Road-Accident-Analysis/assets/112901373/e0b79bc7-84d6-4749-8305-2c1361703361)
